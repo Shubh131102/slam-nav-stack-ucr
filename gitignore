@@ -1,1 +1,23 @@
+ROS2
 
+build/
+install/
+log/
+
+Python
+
+pycache/
+*.py[cod]
+.venv/
+.env
+
+Maps & bags
+
+*.db3
+*.bag
+*.bag.active
+
+OS/misc
+
+.DS_Store
+Thumbs.db
